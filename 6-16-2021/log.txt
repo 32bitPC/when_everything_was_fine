@@ -1,2 +1,2 @@
-- customizing preview upload screen <br>
-- add replica and condition <br>
+- customizing preview upload screen
+- add replica and condition
